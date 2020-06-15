@@ -1,0 +1,3 @@
+Soreland, a software company, is planning on releasing its first C++ compiler with the hopes of putting MiniSoft's Visual C++ out of business (that reminds me of another story). Consequently, Soreland has contracted with the Fruugle Corporation to design and build part of their compiler. Of course, since Fruugle gets all of its labor by exploiting El Camino undergraduate students, you'll be doing all of the programming.
+
+For Fruugle, you will write a C++ program to test the "balance" of certain features of C++ programs. This is a task that is done by C++ compilers. The technique you will use is similar to the technique used by a typical C++ compiler.
